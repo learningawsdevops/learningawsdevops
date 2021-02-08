@@ -1,2 +1,3 @@
 this is file1 text
 mod file1
+mod in b1 file1
